@@ -1,0 +1,16 @@
+month,year,psi_score,upi_volume_mn,avg_ticket_size,vol_mom_growth,festival,stress_level
+Mar,2022,100.0,5405.65,1777.0,19.4,Holi,High Stress
+Mar,2024,94.4,13440.0,1471.99,11.05,Holi,High Stress
+Aug,2024,93.69,14963.05,1377.22,3.65,Raksha Bandhan,High Stress
+Mar,2025,92.92,18301.51,1353.56,13.63,Holi,High Stress
+Aug,2025,92.03,20008.31,1242.22,2.78,Raksha Bandhan,High Stress
+Aug,2023,91.74,10586.02,1489.26,6.24,Raksha Bandhan,High Stress
+Apr,2023,90.66,8863.26,1597.05,2.05,Eid-ul-Fitr,High Stress
+Aug,2022,90.07,6579.63,1630.48,4.63,Raksha Bandhan,High Stress
+Aug,2021,87.74,3555.55,1797.52,9.47,Raksha Bandhan,High Stress
+Apr,2022,84.77,5583.05,1761.23,3.28,No Festival,High Stress
+May,2023,82.76,9415.19,1581.64,6.23,No Festival,High Stress
+Jul,2025,82.24,19467.95,1288.53,5.83,No Festival,High Stress
+Jul,2023,80.64,9964.61,1538.98,6.74,No Festival,High Stress
+Mar,2023,80.08,8685.3,1623.94,15.27,Holi,High Stress
+Jan,2023,79.5,8036.89,1615.96,2.65,No Festival,High Stress

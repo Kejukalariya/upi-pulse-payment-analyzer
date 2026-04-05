@@ -1,0 +1,5 @@
+fiscal_quarter,total_months,total_volume_mn,avg_volume_mn,total_value_cr,avg_value_cr,avg_ticket_size,avg_psi_score
+Q3 (Oct-Dec),21,191871.21,9136.72,28091655.8,1337697.9,1586.94,61.35
+Q4 (Jan-Mar),20,181259.11,9062.96,26757544.73,1337877.24,1603.14,53.59
+Q2 (Jul-Sep),21,172374.85,8208.33,24894130.0,1185434.76,1604.23,74.22
+Q1 (Apr-Jun),21,155034.38,7382.59,23353050.19,1112050.01,1676.1,60.26
