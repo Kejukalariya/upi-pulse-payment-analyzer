@@ -122,3 +122,14 @@ Total Records: 83 months
 ## Author
 Keju Anilbhai Kalariya
 Data Analytics | Python | SQL | Power BI
+
+## Dashboard Screenshots
+
+### Page 1 — Executive Overview
+![Executive Overview](screenshots/page1_executive_overview)
+
+### Page 2 — Payment Stress Index
+![PSI Analysis](screenshots/page2_psi_analysis)
+
+### Page 3 — Deep Dive Analysis
+![Deep Dive](screenshots/page3_deep_dive)
