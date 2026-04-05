@@ -126,10 +126,10 @@ Data Analytics | Python | SQL | Power BI
 ## Dashboard Screenshots
 
 ### Page 1 — Executive Overview
-![Executive Overview](screenshots/page1_executive_overview)
+![Executive Overview](screenshots/page1_executive_overview.png)
 
 ### Page 2 — Payment Stress Index
-![PSI Analysis](screenshots/page2_psi_analysis)
+![PSI Analysis](screenshots/page2_psi_analysis.png)
 
 ### Page 3 — Deep Dive Analysis
-![Deep Dive](screenshots/page3_deep_dive)
+![Deep Dive](screenshots/page3_deep_dive.png)
